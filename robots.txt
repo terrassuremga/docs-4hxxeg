@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-ov4d27.kujang138gold.site/sitemap.xml
